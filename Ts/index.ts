@@ -64,3 +64,26 @@ let price: number = 650;
 
 let finalResult = `this large ${product} cost is Rs.${price}`
 // console.log(finalResult);
+
+
+
+// video no 5 thapa technical
+
+// is even logic 
+function isEven (a:number): boolean {
+return a % 2 === 0
+}
+
+// function call 
+// console.log(isEven(5));
+
+// is Divisible by 4 and 8 logic 
+function isDivisibleBy4And8 (a:number): boolean {
+  if(a % 4 && 8 === 0) {
+    return true
+  }
+// return a % 4 === 0
+}
+
+// function call 
+console.log(isDivisibleBy4And8(8));

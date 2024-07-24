@@ -42,4 +42,17 @@ var checkEqual2 = (myFirstName === myLastName);
 var product = 'Pizza';
 var price = 650;
 var finalResult = "this large ".concat(product, " cost is Rs.").concat(price);
-console.log(finalResult);
+// console.log(finalResult);
+// video no 5 thapa technical
+// is even logic 
+function isEven(a) {
+    return a % 2 === 0;
+}
+// function call 
+// console.log(isEven(5));
+// is Divisible by 4 and 8 logic 
+function isDivisibleBy4And8(a) {
+    return a % 4 === 0;
+}
+// function call 
+console.log(isDivisibleBy4And8(8));
