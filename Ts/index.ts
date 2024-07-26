@@ -79,7 +79,7 @@ return a % 2 === 0
 
 // is Divisible by 4 and 8 logic 
 function isDivisibleBy4And8 (a:number): boolean {
-  if(a % 4 && 8 === 0) {
+  if(a % 4 === 0) {
     return true
   }
 // return a % 4 === 0
@@ -87,3 +87,6 @@ function isDivisibleBy4And8 (a:number): boolean {
 
 // function call 
 console.log(isDivisibleBy4And8(8));
+
+
+// new working 
