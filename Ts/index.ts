@@ -89,5 +89,3 @@ function isDivisibleBy4And8 (a:number): boolean {
 console.log(isDivisibleBy4And8(8));
 
 
-// new working 
-// new working 
