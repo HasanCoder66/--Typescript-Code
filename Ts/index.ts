@@ -90,3 +90,4 @@ console.log(isDivisibleBy4And8(8));
 
 
 // new working 
+// new working 
