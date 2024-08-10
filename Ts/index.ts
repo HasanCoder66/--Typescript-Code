@@ -88,3 +88,4 @@ function isDivisibleBy4And8 (a:number): boolean {
 // function call 
 console.log(isDivisibleBy4And8(8));
 
+// ha jani 
